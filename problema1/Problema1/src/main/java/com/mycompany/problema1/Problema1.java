@@ -15,7 +15,7 @@ class Terreno{
         this.largoTerreno = largoTerreno;
         this.valorMetroCuadrado = valorMetroCuadrado;
     }
-
+    //set
     public void setCostoTerreno(double costoTerreno) {
         this.costoTerreno = costoTerreno;
     }
